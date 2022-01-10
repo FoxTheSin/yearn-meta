@@ -4,7 +4,8 @@
   "description": "Supplies {{token}} to [Iron Bank](https://beta.yearn.finance/#/ironbank) to generate interest.",
   "addresses": [
     "0xf6ee87BedC9fE2c99Fed5AF90794806F53cF9f11",
-    "0xDf262B43bea0ACd0dD5832cf2422e0c9b2C539dc"
+    "0xDf262B43bea0ACd0dD5832cf2422e0c9b2C539dc",
+    "0xfF8bb7261E4D51678cB403092Ae219bbEC52aa51"
   ],
   "protocols": ["IronBank"]
 }
